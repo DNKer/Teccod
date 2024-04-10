@@ -4,7 +4,7 @@
 
 Репозитарий с выполнением тестового задания на вакнсию Full Stack Developer в TECCOD.
 
-## Технологии .
+## Технологии
 
 [![Python](https://img.shields.io/badge/-Python-464646?style=plastic&logo=Python&logoColor=56C0C0&color=008080)](https://www.python.org/)
 
