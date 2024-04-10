@@ -6,7 +6,7 @@
 
 ## Технологии
 
-[![Python](https://img.shields.io/badge/-Python-464646?style=plastic&logo=Python&logoColor=56C0C0&color=008080)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/python-8A2BE2)](https://www.python.org/)
 
 ## Установка
 
