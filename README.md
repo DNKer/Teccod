@@ -6,7 +6,7 @@
 
 ## Технологии
 
-[![Python](https://img.shields.io/badge/python-8A2BE2)](https://www.python.org/)
+https://img.shields.io/badge/python-8A2BE2
 
 ## Установка
 
